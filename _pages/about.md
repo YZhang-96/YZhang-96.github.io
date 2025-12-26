@@ -19,7 +19,7 @@ redirect_from:
 
 I'm a PostDoc in School of AI in Shanghai Jiao Tong University (SJTU).
 
-My research interest includes AI for Science, especially applications in nuclear fusion. <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes AI for Science, especially applications in nuclear fusion. <a href='https://scholar.google.com.hk/citations?user=Uld_i-0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
