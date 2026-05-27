@@ -19,6 +19,8 @@ redirect_from:
 
 I'm a PostDoc at the School of Artificial Intelligence, Shanghai Jiao Tong University (SJTU).
 
+During my Ph.D., my research focused on **reinforcement learning in multi-agent control systems**, particularly game-theoretic scenarios and strategy optimization.
+
 I am deeply passionate about **AI for Nuclear Fusion** — I believe that advances in AI will bring great hope to nuclear fusion, the ultimate energy source for humanity. My background in control science and engineering provides a solid foundation for this endeavor, bridging the gap between intelligent algorithms and complex physical systems. <a href='https://scholar.google.com.hk/citations?user=Uld_i-0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 Beyond fusion, I am also broadly interested in the applications of **AI, reinforcement learning, and intelligent agents** across mathematics, physics, and other natural sciences. I am always open to discussions and collaborations — feel free to reach out!
@@ -41,7 +43,7 @@ Beyond fusion, I am also broadly interested in the applications of **AI, reinfor
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/CAA J. Autom. Sinica 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/CAA J. Autom. Sinica 2025</div><img src='images/parallel.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Value Iteration-Based Distributed Adaptive Dynamic Programming for Multi-Player Differential Game With Incomplete Information](https://doi.org/10.1109/JAS.2024.124950)
@@ -52,7 +54,7 @@ Beyond fusion, I am also broadly interested in the applications of **AI, reinfor
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/CAA J. Autom. Sinica 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/CAA J. Autom. Sinica 2024</div><img src='images/paper1.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Value iteration-based cooperative adaptive optimal control for multi-player differential games with incomplete information](https://doi.org/10.1109/JAS.2023.124125)
